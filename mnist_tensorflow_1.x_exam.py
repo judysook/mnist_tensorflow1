@@ -4,7 +4,6 @@ import tensorflow as tf
 import keras
 import pandas
 
-
 # Model Parameters
 learning_rate = 0.001
 num_epochs = 10
